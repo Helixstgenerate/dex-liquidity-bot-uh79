@@ -1,4 +1,4 @@
-# 
+# secure dex liquidity bot Addon | gas-optimization + front-running-detection offers the most advanced dex liquidity bot, with gas-optimization and front-running-detection. Ideal
 
 
 
